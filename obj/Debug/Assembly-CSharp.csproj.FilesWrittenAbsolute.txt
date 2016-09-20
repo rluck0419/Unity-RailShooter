@@ -1,0 +1,17 @@
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/rob/Documents/RailShooter/obj/Debug/Assembly-CSharp.dll
+/Users/rob/Documents/RailShooter/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/UnityEngine.dll
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/UnityEditor.dll
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/rob/Documents/RailShooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll

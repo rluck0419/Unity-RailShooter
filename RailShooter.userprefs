@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/Scripts/ScrollTexture.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AddToScoreOnTriggerEnter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoveUp.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RandomHue.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ScaleOverTime.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RollY.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovementZ.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RollZ.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RotateTower.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DestroyInvisible.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DestroyBullets.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerShooting.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoveForward.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
